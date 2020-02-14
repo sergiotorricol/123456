@@ -1,0 +1,4 @@
+Manuales
+cp --attributes-only: No copia los datos solo los atributos.
+mkdir --verbose: Imprime un mensaje con cada directorio creado.
+rm --dir: Borra directorios vacios.

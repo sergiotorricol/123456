@@ -1,0 +1,13 @@
+Comandos:
+1) ps -fu root
+2) ps -ef
+3) firefox &
+   PID es 5096
+4) kill 5096
+5) gedit &
+   PID es 5174
+   ctrl + z bg => PID [5174]
+6) fg 1
+7) El proceso que usa mas recurso es Gnome-Shell y su PID es 2179.
+8) top k 5482
+   Matamos el mismo comando top.

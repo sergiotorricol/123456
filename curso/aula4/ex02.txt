@@ -1,0 +1,11 @@
+El nombre de mi maquina es:
+sergiotorrico pts/0
+La fecha y hora del sistema es:
+2020-02-14 07:30 (:0)
+La ruta del comando cp es:
+alias cp='cp -i'
+        /usr/bin/cp
+
+Comando para encontrar todos los archivos .txt en curso:
+find ./curso -name "*.txt"
+

@@ -1,0 +1,13 @@
+Comandos
+Grupo A
+ls: Lista todos los archivos en el directorio actual.
+ls -m: Lista todos los archivos en el directorio actual por comas.
+ls -l: Lista todos los archivos en el directorio actual mostrando los permisos, fechas de creacion y otros datos adicionales.
+ls -l -v: Lista todos los archivos en el directorio actual mostrando los permisos, fechas de creacion y otros datos adicionales ordenandolos por numero.
+Grupo C:
+ls ai[1-5].c: Muestra todos los archivos que comiencen por ai, seguidos por los numeros del 1 al 5 y que terminen en .c.
+ls [a-c]ii1.c: Muestra todos los archivos que comiencen por letras entre la a y la c, seguidos de ii1 y que terminen en .c.
+Grupo E:
+echo ai[1-5].c: Imprime todos los archivos que empiecen por ai, seguidos de numeros del 1 al 5 y que terminen en .c.
+ls [a-c]ii1.c: Muestra todos los archivos que comiencen por las letras en la a y la c, seguidos de ii1 y que terminen en .c.
+

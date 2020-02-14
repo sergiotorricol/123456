@@ -1,0 +1,4 @@
+Opciones
+--color: Colorea los outputs.
+--human-redeable: Pone los outpus en formatos legibles para humanos.
+-S: Lo ordena por tamano de archivo.
